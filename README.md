@@ -23,17 +23,17 @@ If you use the Chocolatey package manager, you can install the unofficial k6 pac
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
+```
 ## Check the Chocolatey version:
 
-```
 choco -v
-```
+
 ## Install k6:
-```
+
 choco install k6
-```
+
 ## If you use the Windows Package Manager, install the official packages from the k6 manifests:
-```
+
 winget install k6 --source winget
-```
+
 
