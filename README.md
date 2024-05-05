@@ -40,6 +40,5 @@ winget install k6 --source winget
 
 For more information about k6, you can refer to the official k6 documentation. It provides comprehensive guides and API references to help you get started with k6.
 
-```
 https://k6.io/docs/
 
