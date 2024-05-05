@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://media.dev.to/cdn-cgi/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1854%2F7061cda4-6e39-409b-a9e6-d3a308a1ce43.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://cdn.icon-icons.com/icons2/3912/PNG/512/k_logo_icon_247940.png" alt="Project logo"></a>
 </p>
 
 <div align="center">
