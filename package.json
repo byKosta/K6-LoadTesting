@@ -1,0 +1,17 @@
+{
+  "name": "k6-first-start",
+  "version": "1.0.0",
+  "description": "Familiarization and first testing on the k6.",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "k6",
+    "performance",
+    "load",
+    "stress"
+  ],
+  "author": "byKosta",
+  "license": "ISC"
+}
