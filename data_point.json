@@ -1,0 +1,14 @@
+{
+    "type":"Point",
+    "metric":"http_req_duration",
+    "data": {
+        "time":"2017-06-02T23:10:29.58582529+02:00",
+        "value":580.839273,
+        "tags": {
+            "method":"GET",
+            "name":"PostsItemURL",
+            "status":"200",
+            "url":"http://example.com/2"
+        }
+    }
+}
