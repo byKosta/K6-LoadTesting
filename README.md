@@ -25,15 +25,16 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 ```
 ## Check the Chocolatey version:
-
+```
 choco -v
-
+```
 ## Install k6:
-
+```
 choco install k6
+```
 
 ## If you use the Windows Package Manager, install the official packages from the k6 manifests:
-
+```
 winget install k6 --source winget
-
+```
 
