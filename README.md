@@ -42,3 +42,21 @@ For more information about k6, you can refer to the official k6 documentation. I
 
 https://k6.io/docs/
 
+### Get started!
+
+Test the K6 using the following command:
+
+```
+k6 run stages.js
+```
+
+## k6 API:
+
+https://k6.io/docs/javascript-api/
+
+Practice and learn the process of API 
+
+https://test-api.k6.io
+
+
+
