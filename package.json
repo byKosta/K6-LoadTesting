@@ -2,9 +2,9 @@
   "name": "k6-first-start",
   "version": "1.0.0",
   "description": "Familiarization and first testing on the k6.",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "run"
   },
   "keywords": [
     "k6",
